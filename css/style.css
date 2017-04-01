@@ -333,7 +333,7 @@ iframe {
 
 /* Portrait and Landscape */
 
-@media only screen and (min-width: 320px) and (max-width: 767px) {
+@media only screen and  (max-width: 767px) {
 	#ill, .ill, #big, .big {display:none;}
 	#tabs-1, #tabs-2, #tabs-3, #tabs-4, #tabs-5 {
 		background: none;
